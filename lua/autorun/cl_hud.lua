@@ -14,7 +14,7 @@ if CLIENT then
     })
 end
 
-    print("[Oasis HUD] Loading of cl_hud.lua completed.")
+    print("[SSHUD] Loading of cl_hud.lua completed.")
 
     k = { "DarkRP_HUD", "CHudBattery", "CHudHealth", "CHudAmmo", "CHudSecondaryAmmo" }
 
