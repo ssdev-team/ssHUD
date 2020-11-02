@@ -17,6 +17,11 @@
 | ------- | ------------------ |
 | 1.x   | :white_check_mark: |
 
+## Where do I find the Version I have?
+
+To find the version you have, open the cl.hud.lua file and on the first line you'll find the version you have.
+
 ## Reporting a Vulnerability
 
 If you found a vulnerability, tell us in the Issues section.
+
