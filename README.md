@@ -19,4 +19,4 @@
 
 ## Reporting a Vulnerability
 
-If you found a vulnerability, tell us in this section.
+If you found a vulnerability, tell us in the Issues section.
