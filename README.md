@@ -18,6 +18,8 @@
 | 1.1     | :white_check_mark: |
 | 1       | :x:                |
 
+We recommend that you do not use unsupported versions. These may contain problems with the code and the like ....
+
 ## Where do I find the Version I have?
 
 To find the version you have, open the cl.hud.lua file and on the first line you'll find the version you have.
