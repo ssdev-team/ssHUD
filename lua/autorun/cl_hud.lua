@@ -1,4 +1,4 @@
--- This is the V1.1
+-- This is the v1.1
 
 if CLIENT then
     surface.CreateFont("Default_font", {
