@@ -15,7 +15,8 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.x   | :white_check_mark: |
+| 1.1     | :white_check_mark: |
+| 1       | :x:                |
 
 ## Where do I find the Version I have?
 
