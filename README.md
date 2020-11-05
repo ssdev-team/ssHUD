@@ -50,4 +50,4 @@ It is possible to ask for help in the issues section, it will be our pleasure to
 
 ### Credit
 
-Jacky-es and EvilGamer.
+Jacky-es and KillerMic.
