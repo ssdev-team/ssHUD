@@ -60,7 +60,7 @@ end
         end
         
 
-        if (GAMEMODE.Config.hungerspeed) then
+       if (GAMEMODE.Config.hungerspeed) then
          
         surface.SetDrawColor(255, 255, 255, 255)
 
@@ -81,15 +81,15 @@ end
 		            draw.RoundedBox(3, ScrW() * 0.0057, ScrH() - 53, armor + 3, 20, Color(41, 11, 214))
 		        end
          
-		        draw.RoundedBox(3, ScrW() * 0.004, ScrH() - 28, 109, 24, Color(20, 20, 20, 220))
-		        draw.RoundedBox(3, ScrW() * 0.0057, ScrH() - 26, 104, 20, Color(48, 48, 47, 170))
-		        draw.RoundedBox(3, ScrW() * 0.0057, ScrH() - 26, hunger, 20, Color(224, 177, 20))
+		draw.RoundedBox(3, ScrW() * 0.004, ScrH() - 28, 109, 24, Color(20, 20, 20, 220))
+		draw.RoundedBox(3, ScrW() * 0.0057, ScrH() - 26, 104, 20, Color(48, 48, 47, 170))
+		draw.RoundedBox(3, ScrW() * 0.0057, ScrH() - 26, hunger, 20, Color(224, 177, 20))
 
-		        draw.RoundedBox(3, ScrW() - 120, ScrH() - 28, 109, 24, Color(20, 20, 20, 220))
-		        draw.RoundedBox(3, ScrW() - 118, ScrH() - 26, 104.5, 20, Color(20, 20, 20, 170))
+	    draw.RoundedBox(3, ScrW() - 120, ScrH() - 28, 109, 24, Color(20, 20, 20, 220))
+		draw.RoundedBox(3, ScrW() - 118, ScrH() - 26, 104.5, 20, Color(20, 20, 20, 170))
 
-		        draw.RoundedBox(3, ScrW() - 120, ScrH() - 55, 109, 24, Color(20, 20, 20, 220))
-		        draw.RoundedBox(3, ScrW() - 118, ScrH() - 53, 104.5, 20, Color(20, 20, 20, 170))
+		draw.RoundedBox(3, ScrW() - 120, ScrH() - 55, 109, 24, Color(20, 20, 20, 220))
+		draw.RoundedBox(3, ScrW() - 118, ScrH() - 53, 104.5, 20, Color(20, 20, 20, 170))
 
 				        if (ply:GetActiveWeapon():GetPrintName() != nil) then
 				            draw.SimpleText(ply:GetActiveWeapon():GetPrintName(), "NameWeapon_font", ScrW() - 110, ScrH() - 49, Color(255,255,255))
@@ -105,7 +105,7 @@ end
 				            draw.SimpleText(ply:GetAmmoCount(ply:GetActiveWeapon():GetSecondaryAmmoType()), "NameWeapon_font", ScrW() - 110, ScrH() - 22, Color(255,255,255,255), 0, 0)
 				        end
 
-        else
+       else
 
         surface.SetDrawColor(255, 255, 255, 255)
 
@@ -144,7 +144,7 @@ end
 				            draw.SimpleText(ply:GetAmmoCount(ply:GetActiveWeapon():GetSecondaryAmmoType()), "NameWeapon_font", ScrW() - 110, ScrH() - 22, Color(255,255,255,255), 0, 0)
 				        end
 
-        end
+       end
 
     end
     
