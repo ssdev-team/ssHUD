@@ -1,7 +1,5 @@
 # SS HUD
-
-**If you need help to install the addon, go to the Wiki section**
-
+                                    Click on the image below to join our discord server!
 ***
 
 [![Discord](https://cdn.discordapp.com/attachments/756310049390985299/773705281330479164/20201104_192826.png)](https://discord.gg/aY3rGxVTaa)
@@ -14,6 +12,8 @@
 ***
 
 ## Supported Versions
+
+##### If you need help to install the addon, go to the Wiki section
 
 | Version | Supported          |
 | ------- | ------------------ |
