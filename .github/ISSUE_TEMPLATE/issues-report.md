@@ -3,7 +3,7 @@ name: Issues Report
 about: Create a report to help us improve
 title: ''
 labels: New Issues
-assignees: Jacky-es, KillerMic
+assignees: 
 
 ---
 
