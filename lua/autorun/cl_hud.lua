@@ -22,11 +22,6 @@ end
     if table.HasValue( k, v ) then return false end
  end)
 
-    local BulletProof = Material("bulletproof.png")
-    local Heart = Material("heart-rate.png")
-    local Money = Material("money.png")
-    local Burger = Material("burger.png")
-
     local function Base()
         local ply = LocalPlayer()
         local health = LocalPlayer():Health()
