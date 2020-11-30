@@ -2,13 +2,13 @@
 
 if CLIENT then
     surface.CreateFont("Default_font", {
-        font = "Roboto", --  Use the font-name which is shown to you by your operating system Font Viewer, not the file name
+        font = "Roboto", 
         extended = false,
         size = 16
     })
 
     surface.CreateFont("NameWeapon_font", {
-        font = "Roboto", --  Use the font-name which is shown to you by your operating system Font Viewer, not the file name
+        font = "Roboto", 
         extended = false,
         size = 12
     })
