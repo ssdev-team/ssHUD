@@ -16,7 +16,7 @@ end
 
     print("[SSHUD] Loading of cl_hud.lua completed.")
 
-    k = { "DarkRP_HUD", "CHudBattery", "CHudHealth", "CHudAmmo", "CHudSecondaryAmmo" }
+ local k = { "DarkRP_HUD", "CHudBattery", "CHudHealth", "CHudAmmo", "CHudSecondaryAmmo" }
 
  hook.Add( "HUDShouldDraw", "HideHUD", function( v )
     if table.HasValue( k, v ) then return false end
