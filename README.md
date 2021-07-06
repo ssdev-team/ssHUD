@@ -45,9 +45,3 @@ Yes, it is possible to modify this addon as you wish. We want to offer our addon
 It is possible to ask for help in the issues section, it will be our pleasure to help you in your creation and in your modification.
 
 :warning: But if you have fucked your addon, we are not responsible for any damage caused to the server!
-
-***
-
-### Credit
-
-Jacky-es and KillerMic.
